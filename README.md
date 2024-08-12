@@ -57,4 +57,4 @@ The Iris dataset is available from the [UCI Machine Learning Repository](https:/
 
 
 ## 📧 Contact
-For any inquiries or feedback, please contact [zhor.diffallah@gmail.com].
+For any inquiries or feedback, please contact zhor.diffallah@gmail.com.
